@@ -1,0 +1,20 @@
+## Status
+<table>
+ <tr>
+  <th>peppypedia</th>
+  <th>Status: Temporary down!</th>
+   <th>Updates: site preperations</th>
+  <table>
+ <tr>
+  <th>peppypedia-old</th>
+  <th>Status: Stable!</th>
+  <table>
+ <tr>
+  <th>Main Site</th>
+  <th>Status: Stable!</th>
+  <table>
+ <tr>
+  <th>Changelogs</th>
+  <th>Stable!</th>
+   <th>Updates: rework</th>
+ </tr></table>
