@@ -16,7 +16,4 @@
   <th>Status: Stable!</th>
    <th>Updates: rework</th>
     <tr>
-  <th>Changelogs</th>
-   <th>Status: Stable!</th>
-   <th>Updates: rework</th>
  </tr></table>
